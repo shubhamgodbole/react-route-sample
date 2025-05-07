@@ -1,7 +1,26 @@
-# Harry Potter Wizard
+# 🔐 React Auth Routing with TypeScript
 
-This project is a web application built with React, TypeScript, and Vite. It provides an interactive platform for Harry Potter fans to explore various aspects of the wizarding world. The application features a responsive design, fast performance, and a rich user experience.
+This project demonstrates a clean and professional implementation of:
 
+- ✅ Public, Private, and Role-Based Routes
+- ✅ Authentication via Context API
+- ✅ Route protection using React Router v6+
+- ✅ TypeScript support
+- ✅ 404 Not Found routing
+- ✅ Scalable folder structure
+
+---
+
+## 📦 Tech Stack
+
+- [React 18+](https://reactjs.org/)
+- [TypeScript](https://www.typescriptlang.org/)
+- [React Router v6.4+](https://reactrouter.com/)
+- [Context API](https://reactjs.org/docs/context.html)
+- [ShadCN / TailwindCSS UI](https://ui.shadcn.com/) (for styling)
+- Optional: API-ready for real auth (JWT)
+
+---
 ## Features
 
 - Interactive UI with React
